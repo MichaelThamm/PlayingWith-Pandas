@@ -20,4 +20,4 @@ To get started:
 4) Once you have found the '$' sign (the exit) modify the maze variable and change the '$' to a '!'
 5) Write the forest dataframe to the
  file and open the file in Excel to check that it worked
-6) Once complete, let JCole know you want to see her for some cuddles
+6) Once complete, let Po know you want to see her for some cuddles
