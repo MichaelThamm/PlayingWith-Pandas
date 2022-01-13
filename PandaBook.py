@@ -1,5 +1,5 @@
 def quest():
-    print('Hello travelling panda I am JCole, an elder panda, who protects these bamboo forests. '
+    print('Hello travelling panda I am Po, an elder panda, who protects these bamboo forests. '
           'If you need help getting around, let me know first')
     name = input('What is your name young panda so I can add you to my list of travellers: ')
 
