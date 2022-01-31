@@ -6,9 +6,9 @@ pandas. Work with urgency and look out for coins, they help pay the bills.
 Good luck fellow panda.
 
 Note: If you get stuck, refer to our elder panda scrolls for guidance:
-https://realpython.com/pandas-read-write-files/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html
+- [Scroll 1](https://realpython.com/pandas-read-write-files/)
+- [Scroll 2](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)
+- [Scroll 3](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excl.html)
 
 To get started:
 
