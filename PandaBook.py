@@ -6,7 +6,7 @@ def quest():
     print(f'\nWell {name}, it is nice to meet you.')
     answer = input('Would you like help getting through the forest? (Y/N)')
 
-    if answer == 'Y':
+    if answer.lower() == 'y':
         print('\nHere is a legend for traversing the forest: ')
         print(legend, end="\n\n")
         print(
@@ -21,9 +21,9 @@ legend = {'entrance': '()',
           'coin': '*',
           'exit': '$'}
 
-ready = input('Open YourMission.txt in the root directory and give it a read once you have done so type DONE: ')
+ready = input('Open Y ourMission.txt in theroot directory and give it a read once you have done so type DONE: ')
 
-if ready == 'DONE' or ready == 'done':
+if ready.lower() == 'done':
     quest()
 else:
     print('Maybe next time')
