@@ -17,7 +17,7 @@ To get started:
 2) Execute/Run the PandaBook.py file and follow the instructions
 3) Open up Flashlight.py and write some code to make your way around the forest by indexing through the forest variable
     Note: If you need to cheat, open the DarkBambooForest.xlsx for a full view of the forest
-4) Once you have found the '$' sign (the exit) modify the maze variable and change the '$' to a '!'
+4) Once you have found the ``'$'`` sign (the exit) modify the maze variable and change the ``'$'`` to a ``'!'``
 5) Write the forest dataframe to the
  file and open the file in Excel to check that it worked
 6) Once complete, let Po know you want to see her for some cuddles
